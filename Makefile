@@ -1,7 +1,7 @@
 NAME		= inception
 
 SRCS		= ./srcs/docker-compose.yml
-DATA_PATH	= /home/emehdaou/data
+DATA_PATH	= /home/elias/data
 
 DOCKER_COMPOSE	= docker compose -f $(SRCS)
 
